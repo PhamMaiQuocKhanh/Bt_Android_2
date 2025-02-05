@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(mycontext, "Chào mừng bạn đến với ứng dụng! dem="+dem, Toast.LENGTH_LONG).show();
             }
         });
-
         bt2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
